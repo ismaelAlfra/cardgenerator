@@ -108,7 +108,7 @@ button {
 .confirmado {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/confirmado.png);
+    background-image: url(./assets/confirmado.png);
     background-repeat: no-repeat;
     background-size: 85px auto;
     background-position: center;
