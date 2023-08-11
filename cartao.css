@@ -29,7 +29,7 @@ body {
     align-items: center;
     width: 800px;
     height: 500px;
-    background-image: url(/assets/cartoa_template.png);
+    background-image: url(./assets/cartoa_template.png);
     background-repeat: no-repeat;
     background-size: 800px auto;
     background-position: center;
@@ -38,7 +38,7 @@ body {
 
 
 /* .fundo {
-    background-image: url(/assets/cartoa_template.png);
+    background-image: url(./assets/cartoa_template.png);
     width: 500px;
     height: auto;
     border-radius: 20px;
@@ -81,7 +81,7 @@ button {
     width: 60px; */
     height: 100%;
     width: 100%;
-    background-image: url(/assets/carimbo.png);
+    background-image: url(./assets/carimbo.png);
     background-repeat: no-repeat;
     background-size: 80px auto;
     background-position: center;
@@ -90,7 +90,7 @@ button {
 .carimbo-03 {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/carimbo_03.png);
+    background-image: url(./assets/carimbo_03.png);
     background-repeat: no-repeat;
     background-size: 80px auto;
     background-position: center;
@@ -99,7 +99,7 @@ button {
 .carimbo-06 {
     height: 100%;
     width: 100%;
-    background-image: url(/assets/carimbo_06.png);
+    background-image: url(./assets/carimbo_06.png);
     background-repeat: no-repeat;
     background-size: 80px auto;
     background-position: center;
